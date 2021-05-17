@@ -7,7 +7,7 @@ Istio integrates well with K8s
 ## Pre-Reqs
 
 - Azure Subscription
-- Completed Fruit smoothies AKS workshop - aksworkshop.io
+- Completed Fruit smoothies [AKS workshop](https://www.aksworkshop.io)
  
 
 ## Tutorial: Install Istio
