@@ -1,1 +1,1 @@
-# k8s-istio
+# Istio with Kubernetes
